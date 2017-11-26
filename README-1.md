@@ -17,5 +17,5 @@ Este proyecto se basa en el diseño de una pagina web dedicada especificamente a
 
 La eleccion de este proyecto nace de la falta de un espacio donde los alumnos puedan expresar su opnion sobre diferentes secciones que componen la institucion. La finalidad del mismo es que tanto directivos, profesores, etc se interesen en las opiniones e ideas de los alumnos y asi mejorar la convivencia y relacion con los mismos.
 
-![Texto alternativo](/home/ivan-gaitan/Escritorio/imagenesproyecto)
+![Uso de la Pagina](https://github.com/ivangaitan/Foro-its-villada1/blob/master/cap1.1.png)
 
