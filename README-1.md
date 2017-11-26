@@ -13,3 +13,9 @@ Este proyecto se basa en el diseño de una pagina web dedicada especificamente a
 - **Pastoral:** Aqui los alumnos podran opinar y aportar ideas sobre la pastoral del colegio a traves del sistema de comentarios de la pagina (ej: insrumentos, sistema de agua para el mate, aportes, etc).
 - **Interes General:** Esta es una seccion especial donde los alumnos podran aportar ideas, opiniones, debatir, sobre temas que no esten en ninguna seccion de la pagina y el usuario tenga necesidad de aportar algo. 
 
+**Finalidad de Eleccion**: 
+
+La eleccion de este proyecto nace de la falta de un espacio donde los alumnos puedan expresar su opnion sobre diferentes secciones que componen la institucion. La finalidad del mismo es que tanto directivos, profesores, etc se interesen en las opiniones e ideas de los alumnos y asi mejorar la convivencia y relacion con los mismos.
+
+![Texto alternativo](/home/ivan-gaitan/Escritorio/imagenesproyecto)
+
