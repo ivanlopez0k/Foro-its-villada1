@@ -19,4 +19,5 @@ La eleccion de este proyecto nace de la falta de un espacio donde los alumnos pu
 
 ![Uso de la Pagina](https://github.com/ivangaitan/Foro-its-villada1/blob/master/cap1.1.png)
 ![](https://github.com/ivangaitan/Foro-its-villada1/blob/master/cap2.2.png)
+![](https://github.com/ivangaitan/Foro-its-villada1/blob/master/cap3.3.png)
 
