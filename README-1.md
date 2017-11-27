@@ -17,7 +17,8 @@ Este proyecto se basa en el diseño de una pagina web dedicada especificamente a
 
 La eleccion de este proyecto nace de la falta de un espacio donde los alumnos puedan expresar su opnion sobre diferentes secciones que componen la institucion. La finalidad del mismo es que tanto directivos, profesores, etc se interesen en las opiniones e ideas de los alumnos y asi mejorar la convivencia y relacion con los mismos.
 
-**Instrucciones**: 
+**Instrucciones:**
+
 **1**. En el punto uno podremos seleccionaremos la seccion a la que se quiere dirigir.
 **2**. En el punto dos podremos seleccionar inicio y volver a la pagina principal.
 **3**. En el punto tres dentro de la seccion elegida en el punto uno podremos comentar acerca de ella llenando los campos de Nombre y En el campo mensaje escribiremos nuestro comentario.
