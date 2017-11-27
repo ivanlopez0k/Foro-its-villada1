@@ -20,8 +20,11 @@ La eleccion de este proyecto nace de la falta de un espacio donde los alumnos pu
 **Instrucciones:**
 
 **1**. En el punto uno podremos seleccionaremos la seccion a la que se quiere dirigir.
+
 **2**. En el punto dos podremos seleccionar inicio y volver a la pagina principal.
+
 **3**. En el punto tres dentro de la seccion elegida en el punto uno podremos comentar acerca de ella llenando los campos de Nombre y En el campo mensaje escribiremos nuestro comentario.
+
 **4**. En el punto 4 enviaremos nuestro comentario presionando el boton "Comentar".
 
 
